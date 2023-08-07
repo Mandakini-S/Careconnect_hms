@@ -22,7 +22,7 @@ The Hospital Management Database project, Project CareConnect, is an initiative 
 **Software used**
 1. XAMPP was installed on the Ubuntu 19.04 machine and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/Careconnect_hms
 2. VS code
-3. Brave Version 1.56.20 Chromium was used to run the project (localhost/myhmsp was used as the url).
+3. Brave Version 1.56.20 Chromium was used to run the project.
 
 
 
